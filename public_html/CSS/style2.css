@@ -1,0 +1,50 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 12 oct. 2016, 10:41:52
+    Author     : admin
+*/
+.contenu{
+    border-color: graytext;
+    border-style: groove;
+    border-width: medium;
+    height: 300px;
+    color: white;
+    
+}
+.menu{
+    color: white;   
+    font-size: 20px;
+}
+.titre{
+    font-size: 100px;
+    font-family: "Bookman Old Style", cursive;
+    text-align: center;
+    color: #cc3300;
+    background-image : url('IMG/titre.png');
+    height: 150px;
+    background-position: center ;
+    background-repeat: no-repeat;
+    background-size: cover;
+   
+    font-weight: bold;
+}
+.pied{
+   
+    font-size: x-large;
+    font-family: fantasy;
+    color: gold;
+    height: 45px;
+    background-position: center;
+    color: white;
+    
+
+}
+.titre, .contenu, .menu, .pied{
+    background-color: black;
+    text-align: center;
+    
+}
